@@ -99,11 +99,4 @@ A complete token program implementation by Firedancer Contributors. Highly optim
 
 ## 📝 Contributing
 
-Contributions are highly welcome! Please feel free to submit a Pull Request. (Consider adding a `CONTRIBUTING.md` file for detailed guidelines).
-
----
-
-## 📜 License
-
-The documentation and overall structure of this repository are open source.
-The license for specific code examples (like the Token Program) may vary; please see the `LICENSE` file within each respective example directory (e.g., [Token Program License](./examples/token.sbpf/LICENSE)).
+Contributions are highly welcome! Please feel free to submit a Pull Request.
