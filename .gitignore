@@ -1,0 +1,33 @@
+# IDE and editor files
+.cursor/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.elf
+*.dump
+*.bc
+
+# Solana/SBF specific
+target/
+node_modules/
+dist/
+build/
+
+# Generated documentation
+_site/
+doc/html/
+doc/latex/
+
+# Logs and temporary files
+*.log
+logs/
+tmp/ 
