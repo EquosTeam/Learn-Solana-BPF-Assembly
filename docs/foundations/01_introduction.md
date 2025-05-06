@@ -25,7 +25,7 @@ be useful when you need **maximum control over compute-units, code size, and
 branch-level performance** or when you simply want to understand how Solana
 works at the lowest level... hacking if fun.
 
-If you have never touched BPF assembly before, don't worry—the following
+If you have never touched BPF assembly before, don't worry, the following
 chapters build up from the ground level: registers, memory model, instruction
 syntax, and finally real-world examples such as a Fibonacci calculator written
 in only a few dozen instructions.
