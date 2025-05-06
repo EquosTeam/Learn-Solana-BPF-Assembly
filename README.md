@@ -21,8 +21,6 @@ This repository serves as a Solana BPF Assembly (sBPF) learning resource. It aim
 - In-depth technical documentation on the sBPF execution model, memory map, and register usage.
 - Clear, organized navigation to help you find information quickly.
 
-Whether you're optimizing for maximum performance, exploring the intricacies of Solana's core, or developing specialized on-chain applications, this hub provides the structured guidance necessary to navigate the sBPF assembly ecosystem effectively.
-
 **Connect with the Community:**
 - **Tetsuo Coin:** [Buy on DexScreener](https://dexscreener.com/solana/2kb3i5ulkhucjuwq3poxhpuggqbwywttk5eg9e5wnlg6)
 - 🐦 **X/Twitter:** [@7etsuo](https://www.x.com/7etsuo)
